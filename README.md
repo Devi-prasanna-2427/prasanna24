@@ -13,13 +13,13 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://www.linkedin.com/in/hemanth-kumar-arigela/" target="_blank">
+  <a href="https://www.linkedin.com/in/devi-prasanna-maddu-1017b5265/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Hemanth4072" target="_blank">
+  <a href="https://github.com/Devi-prasanna-2427" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:hemanthkumararigela99@gmail.com">
+  <a href="mailto:mdeviprasanna9@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
