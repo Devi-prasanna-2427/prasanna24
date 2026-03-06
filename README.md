@@ -37,7 +37,7 @@
 
 <!-- Animated Coding GIF -->
 <br/>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGZkeWtuZmgxdmQxbWQ0dHEwaTltbDllbGhldWUycm40dXJpY3hmNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/PQq48ffj6XAmG8h1SU/giphy.gif" width="400" alt="Coding GIF"/>
 
 </div>
 
@@ -248,9 +248,9 @@ public class Deviprasanna {
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=120&section=footer" width="400" alt="Footer GIF"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" alt="Footer GIF"/>
 
 <!-- Wave Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling%22" />
 
 </div>
